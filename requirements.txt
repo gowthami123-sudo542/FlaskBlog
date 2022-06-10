@@ -1,4 +1,4 @@
-bcryp==3.2.0
+bcrypt==3.2.0
 blinker==1.4
 certifi==2021.10.8
 cffi==1.14.5
@@ -9,7 +9,6 @@ Flask-Login==0.6.0
 Flask-Mail==0.9.1
 Flask-SQLAlchemy==2.5.1
 Flask-WTF==1.0.0
-gunicorn==20.1.0
 itsdangerous==2.0.1
 Jinja2==2.11.3
 MarkupSafe==1.1.1
